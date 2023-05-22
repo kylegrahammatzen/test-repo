@@ -1,3 +1,3 @@
-# Git & GitHub - Understanding Fireship's Course
+# Git & GitHub - Understanding Fireship Course
 
 A fast-paced course for getting up to speed with Git and Github
